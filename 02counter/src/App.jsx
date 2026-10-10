@@ -16,9 +16,10 @@ function App() {
     }
     console.log(counter)
   };
-  const decValue = ()=>{
+  
+  function decValue(){
     if(counter>0){
-    setCounter(counter-1)
+      setCounter(counter-1)
     }
     console.log(counter)
   }
