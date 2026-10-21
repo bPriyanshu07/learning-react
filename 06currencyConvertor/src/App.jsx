@@ -50,7 +50,7 @@ function App() {
               type="submit"
               className="w-full bg-blue-600 text-white px-4 py-3 rounded-lg"
             >
-              Convert
+              Convert to other
             </button>
           </form>
         </div>
